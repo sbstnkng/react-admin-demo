@@ -1,7 +1,7 @@
-# React Typescript Template
+# React Admin Demo
 
-![Build and Deploy](https://github.com/sbstnkng/react-typescript-template/workflows/Build%20and%20Deploy/badge.svg)
-![CodeQL](https://github.com/sbstnkng/react-typescript-template/workflows/CodeQL/badge.svg)
+[![Build and Deploy](https://github.com/sbstnkng/react-typescript-template/workflows/Build%20and%20Deploy/badge.svg)](https://github.com/sbstnkng/react-admin-demo/actions/workflows/ci-pipeline.yml)
+[![CodeQL](https://github.com/sbstnkng/react-typescript-template/workflows/CodeQL/badge.svg)](https://github.com/sbstnkng/react-admin-demo/security/code-scanning)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat)](https://github.com/prettier/prettier)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -12,8 +12,9 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Start the app
 
-1. Run `npm run start`
-2. Open http://localhost:3000 on your browser
+1. Run `npm install`
+2. Run `npm run start`
+3. Open http://localhost:3000 on your browser
 
 ## Build Pipeline
 
