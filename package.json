@@ -1,8 +1,8 @@
 {
-  "name": "react-template",
+  "name": "react-admin-demo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sbstnkng.github.io/react-typescript-template/",
+  "homepage": "https://sbstnkng.github.io/react-admin-demo/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
