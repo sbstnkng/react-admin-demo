@@ -5,18 +5,18 @@
     "main.js.map": "/react-admin-demo/static/js/main.1bfa50c4.chunk.js.map",
     "runtime-main.js": "/react-admin-demo/static/js/runtime-main.bce1899e.js",
     "runtime-main.js.map": "/react-admin-demo/static/js/runtime-main.bce1899e.js.map",
-    "static/js/2.f4b040a5.chunk.js": "/react-admin-demo/static/js/2.f4b040a5.chunk.js",
-    "static/js/2.f4b040a5.chunk.js.map": "/react-admin-demo/static/js/2.f4b040a5.chunk.js.map",
+    "static/js/2.d082e6bd.chunk.js": "/react-admin-demo/static/js/2.d082e6bd.chunk.js",
+    "static/js/2.d082e6bd.chunk.js.map": "/react-admin-demo/static/js/2.d082e6bd.chunk.js.map",
     "static/js/3.b6b7386e.chunk.js": "/react-admin-demo/static/js/3.b6b7386e.chunk.js",
     "static/js/3.b6b7386e.chunk.js.map": "/react-admin-demo/static/js/3.b6b7386e.chunk.js.map",
     "index.html": "/react-admin-demo/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/react-admin-demo/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.f4b040a5.chunk.js.LICENSE.txt": "/react-admin-demo/static/js/2.f4b040a5.chunk.js.LICENSE.txt",
+    "static/js/2.d082e6bd.chunk.js.LICENSE.txt": "/react-admin-demo/static/js/2.d082e6bd.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/react-admin-demo/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bce1899e.js",
-    "static/js/2.f4b040a5.chunk.js",
+    "static/js/2.d082e6bd.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.1bfa50c4.chunk.js"
   ]
