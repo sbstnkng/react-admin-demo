@@ -77,6 +77,6 @@
     "husky": "^7.0.1",
     "lint-staged": "^11.0.0",
     "prettier": "^2.3.2",
-    "react-admin": "^3.16.6"
+    "react-admin": "^3.17.0"
   }
 }
